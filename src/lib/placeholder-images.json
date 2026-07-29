@@ -1,0 +1,10 @@
+{
+  "videoCovers": {
+    "airConditionerTechnician": {
+      "src": "https://picsum.photos/seed/air-conditioner/1200/800",
+      "width": 1200,
+      "height": 800,
+      "hint": "air conditioner"
+    }
+  }
+}
